@@ -1,7 +1,8 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FastLED/public)
 
-IMPORTANT NOTE: For AVR based systems, avr-gcc 4.8.x is supported and tested.  This means Arduino 1.6.5 and later.
+**THIS WORK IS ENTIRELY DONE BY THE FastLED team. I'll reuse some of the code, but this is just placed here as a reference**
 
+**I have also forked this repo. It can be found under my list of repositories**
 
 FastLED 3.1
 ===========
